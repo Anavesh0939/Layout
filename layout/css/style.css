@@ -1,0 +1,227 @@
+
+*
+{
+    margin: 0%;
+   
+    
+
+}
+.header
+{
+    height: 150px;
+    width: 100%;
+   
+    display: flex;
+}
+.logo
+{
+    height: 150px;
+    width: 20%;
+}
+.logo img
+{
+    height: 150px;
+    width: 100%;
+}
+.name
+{
+    height: 150px;
+    width: 80%;
+    padding-left: 9px;
+ 
+}
+.icon
+{
+    height: 75px;
+    width: 27%;
+    padding-left: 68%;
+    padding-top: 18px;
+   
+}
+.nav 
+{
+    display: flex;
+    height: 75px;
+    margin: 0%;
+    padding: 0%;
+    padding-left: 22%;
+    margin-top: 20px;
+    font-size: 24px;
+}
+.navlist
+{
+    list-style: none;
+    padding: 10px 20px;
+}
+.section
+{
+    margin-top: 5px;
+    height: 350px;
+    width: 100%;
+}
+.section img
+{
+
+    height: 350px;
+    width: 100%;
+}
+.content
+{
+    height: 200px;
+    width: 100%;
+}
+.content h1
+{
+    text-align: center;
+}
+.content h2
+{
+    text-align: center;
+}
+.content h3
+{
+    text-align: center;
+    font-weight: normal;
+}
+.gallery
+{
+    height: 300px;
+    width: 100%;
+    display: flex;
+}
+.gallery .g1
+{
+    height: 400px;
+    width: 40%;
+    margin-left: 86px;
+}
+.g1 img
+{
+    height: 400px;
+    width: 100%;
+    padding-left: 10px;
+
+}
+.gallery .g2
+{
+    height: 400px;
+    width: 44%;
+    margin-left: 47px;
+
+}
+.g2 img
+{
+    height: 400px;
+    width: 100%;
+  
+}
+ li:hover
+{
+  background-color: whitesmoke;
+  color: black;
+}   
+.footer
+
+{
+ margin-top: 7%;
+ height: 500px;
+ width: ;
+ background-color: gray;
+ display: flex;
+}
+.f1
+{
+    height: 500px;
+    width: 0%;
+
+}
+.f1 img
+{
+    margin-top: 5px;
+    padding-left: 5%;
+}
+.fmenu
+{
+    height: 500px;
+    width: 30%;
+}
+.fmenulist
+{
+    list-style: none;
+    color: antiquewhite;
+    padding: 20px;
+
+}
+.F2 ,h6  
+{
+   font-size: 30px;
+   color:white;
+   padding-top: 12px;
+   padding-left: 290px;
+    
+
+}
+.f2 h3
+{
+    width: 30%;
+   
+
+}
+.f3
+{
+     height: 500px;
+     width: 95%;
+     padding-top: 2px;
+    
+}
+
+iframe
+{
+    height: 450px;
+    width: 95%;
+    padding-left: 20px;
+    padding-top: 22px;
+   
+    
+}
+.icon1
+{
+    color: black;
+    font-size: 20px;
+    padding-left: 261px;
+    padding-top: 25px;
+    width: 60%;
+}
+.address
+{
+    font-size: 20px;
+    color: black;
+    /* padding-left: 284px; */
+    width: 50%;
+    
+}
+.number
+{
+    /* padding-left: 261px; */
+     font-size: 20px;
+}
+.mark
+{
+    
+    font-size: 40px;
+}
+
+.foot-1 {
+    width: 50%;
+    position: absolute;
+    
+    display: inline-flex;
+}
+
+
+.foot-2 {
+    width: 50%;
+    position: absolute;
+    left: 50%;
+    display: inline-flex;
+}
